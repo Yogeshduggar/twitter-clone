@@ -1,0 +1,7 @@
+body{
+    background-color: #551A8B;
+}
+.box{
+    box-shadow: 4px 4px 20px #D8BFD8;
+    border-radius: 5px;
+}
